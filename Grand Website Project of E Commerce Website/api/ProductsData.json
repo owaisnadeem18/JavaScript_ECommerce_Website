@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "category": "Computers",
+    "brand": "ExampleBrand",
+    "price": 999.99,
+    "stock": 50,
+    "description": "Sleek and powerful laptop featuring a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display, perfect for everyday tasks and professional work.",
+    "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/computer/u/u/a/na-thin-and-light-laptop-hp-original-imah3gpbwxkfnsxx.jpeg?q=90&crop=false"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "category": "Mobiles",
+    "brand": "TechGadget",
+    "price": 499.99,
+    "stock": 100,
+    "description": "Advanced smartphone with a vibrant 6.2-inch display, 12MP dual camera, 128GB internal storage, and a long-lasting 4000mAh battery, designed for modern multitasking.",
+    "image": "https://www.mobilshop3000.de/media/image/9a/3d/f8/iphone11PROsilber.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "category": "Audio",
+    "brand": "SoundBeats",
+    "price": 149.99,
+    "stock": 30,
+    "description": "Premium wireless headphones with crystal clear sound, over-ear design, 20 hours of battery life, and a modern, sleek black finish, ideal for music lovers.",
+    "image": "https://d3lnc7yu1ksdj.cloudfront.net/wp-content/uploads/2022/08/Hesh-Evo_True-Black_S6HVW-N740_Hero_v002-1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "category": "Wearables",
+    "brand": "FitTech",
+    "price": 199.99,
+    "stock": 20,
+    "description": "Stylish and functional smartwatch with a 1.3-inch AMOLED display, water-resistant build, advanced fitness tracking, and a polished silver design, perfect for health enthusiasts.",
+    "image": "https://hafeezcenterlhr.com/wp-content/uploads/2023/02/3-1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Speakers",
+    "category": "Audio",
+    "brand": "SoundBeats",
+    "price": 149.99,
+    "stock": 30,
+    "description": "Portable wireless speakers delivering immersive sound with powerful bass, long-lasting battery, and a compact design for enjoying music on the go.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Logitech-usb-speakers.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Television",
+    "category": "Video",
+    "brand": "Samsung",
+    "price": 199.99,
+    "stock": 20,
+    "description": "32-inch Smart TV with Full HD resolution, vibrant display, smart features, and compatibility with popular streaming apps, perfect for home entertainment.",
+    "image": "https://images.news18.com/ibnlive/uploads/2022/04/realme-smart-tv-x-full-hd-16512985133x2.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Tablet",
+    "category": "Computers",
+    "brand": "TechPad",
+    "price": 299.99,
+    "stock": 40,
+    "description": "Versatile tablet with a 10.1-inch display, 64GB storage, 4GB RAM, and support for stylus input, ideal for work and entertainment.",
+    "image": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/tablets/mediapad-t3-10.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Gaming Console",
+    "category": "Gaming",
+    "brand": "GameBox",
+    "price": 499.99,
+    "stock": 25,
+    "description": "Next-gen gaming console with 4K gaming, 1TB storage, and a wide range of exclusive games for an immersive experience.",
+    "image": "https://toygenix.com.pk/cdn/shop/files/Untitleddesign_11_11455e6a-33a4-4e2d-b92e-f52a381bb766_1200x1200.jpg?v=1712080786"
+  },
+  {
+    "id": 9,
+    "name": "Bluetooth Speaker",
+    "category": "Audio",
+    "brand": "AudioWave",
+    "price": 89.99,
+    "stock": 60,
+    "description": "Portable Bluetooth speaker with deep bass, water-resistant design, and 12-hour battery life, perfect for outdoor use.",
+    "image": "https://s.alicdn.com/@sc04/kf/Hcbb2777f17754a7e85b326012b07fc55s.jpg_720x720q50.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Fitness Tracker",
+    "category": "Wearables",
+    "brand": "HealthTrack",
+    "price": 59.99,
+    "stock": 75,
+    "description": "Compact fitness tracker with heart rate monitoring, sleep tracking, step counting, and waterproof design, ideal for active users.",
+    "image": "https://i.ebayimg.com/images/g/ZygAAOSwCelmFQHr/s-l1200.webp"
+  },
+  {
+    "id": 11,
+    "name": "Camera",
+    "category": "Photography",
+    "brand": "PhotoPro",
+    "price": 799.99,
+    "stock": 15,
+    "description": "High-end DSLR camera with 24MP sensor, 4K video recording, and interchangeable lenses for capturing stunning photos and videos.",
+    "image": "https://media.istockphoto.com/id/157292245/photo/camera-slr.jpg?s=612x612&w=0&k=20&c=ptR21pA7cRUTDHnIXwHf1K7W27ZzZgvTPK3Zb_zzwNE="
+  },
+  {
+    "id": 12,
+    "name": "VR Headset",
+    "category": "Gaming",
+    "brand": "VirtuTech",
+    "price": 299.99,
+    "stock": 35,
+    "description": "Immersive VR headset with a wide field of view, high resolution, and motion tracking, offering a next-level virtual reality experience.",
+    "image": "https://media.visartech.com/wp-content/uploads/2022/04/18150616/Oculus-Quest-Assembly.jpg"
+  }
+]
